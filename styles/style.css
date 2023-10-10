@@ -6,3 +6,119 @@ Green: #00B172
 White: #FFF
 
 */
+
+/*---
+
+header {
+    background-color:whitesmoke;
+    display: flex;
+    align-items: center; /*llevar los dos elementos al TOP POSITION?*/
+    /*align-self: flex-start;*/
+/*---    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    position: sticky;
+    background-image: url("../images/landing.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+
+.menu ul {
+    color: black;
+    list-style: none; /*SIN SANGRÍA*/
+/*--text-align: right;
+}*/
+
+----------------------
+
+
+header {
+    /*background-image: url("../images/landing.jpg");*/
+    
+}
+
+.barra {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu li {
+    color: black;
+    
+    display: inline;
+    margin-right: 15px;
+    font-family: 'Signika', sans-serif;
+}
+
+.titulo-header {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    /*color: white;*/
+}
+
+.subtitulo-header {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    /*color: white;*/
+}
+
+.segundo-titulo {
+    font-family: 'Signika', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.caracteristicas {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    text-align: center;
+    justify-content: space-evenly;
+    color: #1db954;
+    font-family: 'Signika', sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 80px;*/
+    
+    
+}
+
+.info {
+    font-family: 'Signika', sans-serif;  
+    background-color: #1db954;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.texto-info {
+    font-family: 'Signika', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    max-width: 100%;
+    height: auto;
+}
+
+.titulo-info {
+    font-family: 'Signika', sans-serif;
+    padding: 40px;
+    margin-left: 60px;
+    text-decoration: underline;
+}
+
